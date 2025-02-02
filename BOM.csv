@@ -1,0 +1,47 @@
+﻿Part,,,Quant.,Unit.,Ext.,Link
+2020 extrusion 350mm,,,8,$13.45/4,26.9,https://www.aliexpress.us/item/3256805051854714.html
+KP3S bed,,,1,$22.99/1,22.99,https://www.aliexpress.us/item/2255800343160168.html
+4240 motor,,,5,$48/5,48,https://www.amazon.com/STEPPERONLINE-Stepper-63-74oz-Connector-Extruder/dp/B07LCHHQ97
+LM8UU bearing,,,8,$6.70/4,13.4,https://www.aliexpress.us/item/2251832657203612.html
+LM8LUU bearing,,,2,$7.16/2,7.16,https://www.aliexpress.us/item/2255800936019514.html
+250x8mm linear rod,,,4,$3.36/1,13.44,https://www.aliexpress.us/item/3256801194605508.html
+300x8mm linear rod,,,6,$4.04/1,24.24,https://www.aliexpress.us/item/3256801194605508.html
+T8 nut,,,2,,,N/A (included with leadscrew)
+T8 leadscrew 250mm,,,2,$3.69/1,7.38,https://www.aliexpress.us/item/2255801146318191.html
+GT2 belt,,,~5M,$11.99/5M,11.99,https://www.aliexpress.us/item/3256806120793282.html
+730mm GT2 belt,,,1,$1.42,1.42,https://www.aliexpress.us/item/3256804262911780.html
+20T 5mm bore GT2 pulley,,,5,$6.79/5,6.79,https://www.aliexpress.us/item/2251832808788159.html
+20T 5mm bore GT2 idler,,,6,$15.29/10,15.29,https://www.aliexpress.us/item/2251832539995194.html
+"180mm PEI sheet [optional, bed comes with a sheet]",,,1,$15.36/1,15.36,https://www.aliexpress.us/item/3256805641662701.html
+30T 8mm bore GT2 pulley,,,2,$2/1,4,https://www.aliexpress.us/item/3256805593092055.html
+608 bearing,,,2,$2.66/10,2.66,https://www.aliexpress.us/item/3256801626904419.html
+,,,,,,
+Electronic component,,,Quant.,Unit.,Ext.,Link
+BigTreeTech SKR E3 Mini 3.0,,,1,$29.40//1,29.4,https://www.aliexpress.us/item/3256805861115217.html
+Meanwell LRS-350-24,,,1,$37.58/1,37.58,https://www.aliexpress.us/item/3256806958274247.html
+Raspberry Pi <2-5>,,,1,$35/1,35,N/A (please check for availability in various places)
+IEC fused power socket,,,1,$1.39/1,1.39,https://www.aliexpress.us/item/2251832643407093.html
+16awg stranded wire,,,N/A,,,N/A (everyone has their favorite brand or own supply)
+22awg stranded wire ,,,N/A,,,N/A (everyone has their favorite brand or own supply)
+Buck converter,,,1,$1.25/1,1.25,https://www.aliexpress.us/item/3256804718557368.html
+Fan MOSFET [optional],,,1,$1.12/1,1.12,https://www.aliexpress.us/item/3256805264005227.html
+Parallel board,,,2,$3.3/4,3.3,https://www.aliexpress.us/item/3256803393452783.html
+Stepper cable,,,5,$1.60/4,5.2,https://www.aliexpress.us/item/3256804466627797.html
+,,,,,,
+Toolhead component,,,Quant.,Unit.,Ext.,Link
+Dragon hotend,,,1,$17.34/1,17.34,https://www.aliexpress.us/item/3256804340965950.html
+Sherpa mini extruder,,,1,$33.73/1,33.73,https://www.aliexpress.us/item/3256802301412640.html
+4010 blower fan,,,2,$13.09/2,13.09,https://www.aliexpress.us/item/2251832612319325.html
+Cartridge thermistor,,,1,$1.76/2,1.76,https://www.aliexpress.us/item/3256805987471638.html
+24V heater cartridge,,,1,$3.07/1,3.07,https://www.aliexpress.us/item/2251832630477143.html
+4010 axial fan,,,1,$4.17/1,4.17,https://www.aliexpress.us/item/3256804770149410.html
+BLTouch (or substitute),,,1,$10.94/1,10.94,https://www.aliexpress.us/item/2251832763135773.html
+,,,,,,
+Hardware piece,,,,,,
+M5x10 bolt,,,2 packs,$4.62/pck,9.24,https://www.aliexpress.us/item/2251832708216186.html
+M5 nut,,,1 pack,$3.69/pck,3.69,https://www.aliexpress.us/item/3256803624749385.html
+M5 T-nut,,,3 packs,$1.42/pck,4.26,https://www.aliexpress.us/item/3256801437020797.html
+M3 screw set ,,,1,$5/1,5,https://www.aliexpress.us/item/3256806736020361.html
+,,,,,,
+,,,,,,
+,,,,,419.87,
