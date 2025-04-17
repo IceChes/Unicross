@@ -3,7 +3,7 @@ Unicross is a simple 180mm cross-gantry 3d printer. It was designed to fill a ni
 
 Version 2 is the current usable version. Version 1 is deprecated.
 
-![image](https://github.com/user-attachments/assets/b1ce85ff-5cfe-444d-a624-4efc29cd644f)
+![IMG_0329](https://github.com/user-attachments/assets/a7ff36e0-5423-4151-af9b-335695c5384b)
 
 There is no assembly guide, because I made this machine primarily for myself, but there are attached STEP files for the toolhead and main assembly to reference off of. A BOM is completed. I recommend you open the toolhead and assembly STEP files in your favorite CAD software and use the built-in tools to explore the model during assembly.
 
