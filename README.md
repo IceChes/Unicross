@@ -9,5 +9,4 @@ There is no assembly guide, because I made this machine primarily for myself, bu
 
 When I built this machine it cost about $400-450. However, the fluctuating prices of goods during the current trade crisis means I cannot provide an estimate of cost. Proceed with caution.
 
-Onshape: https://cad.onshape.com/documents/c27a3c37a85bf871058d970a/w/8efdc285a080f347fddd0032/e/d65661c6b902910ffd47d532
-
+https://cad.onshape.com/documents/c27a3c37a85bf871058d970a/w/8efdc285a080f347fddd0032/e/d65661c6b902910ffd47d532?renderMode=0&uiState=68010e6fa2ccd4686801c415
