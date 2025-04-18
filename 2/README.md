@@ -6,6 +6,7 @@ MINIMUM RECOMMENDED SETTINGS:
 - Bottom layers - 3
 - Infill - 20% 3D infill (such as cubic, gyroid, etc)
 
+# Parts
 - Bed Knob: use a non-creeping filament at 100% infill. Pause the print to insert a nut. You can check the exact layer in your slicer.
 - All Bed Mounting Parts: use a non-creeping filament and at least minimum settings. The BEARING HOLDER and BED MOUNT are both intended to be printed laying down on their sides.
 - BLTouch Mount: use a non-creeping filament resistant to at least 60C and 100% infill.
